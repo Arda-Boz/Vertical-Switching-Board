@@ -1,0 +1,290 @@
+*************************************************************
+FileName = VerticalFET.GBR
+AutoAperture = True
+*************************************************************
+Generating : Dielectric 3
+      File : VerticalFET.3
+
+    Adding Layer      : Dielectric 3
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Prepreg1
+      File : VerticalFET.2
+
+    Adding Layer      : Prepreg1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Dielectric 1
+      File : VerticalFET.1
+
+    Adding Layer      : Dielectric 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Multi-Layer
+      File : VerticalFET.GML
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D37
+    D38
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 2
+      File : VerticalFET.GM3
+
+    Adding Layer      : Mechanical 2
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : VerticalFET.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : VerticalFET.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D43
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : VerticalFET.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : L2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D44
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : VerticalFET.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : VerticalFET.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : L2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D30
+    D31
+    D32
+    D51
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : VerticalFET.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : L1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : VerticalFET.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : VerticalFET.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : L1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+*************************************************************
+
+*************************************************************
+Generating : L2
+      File : VerticalFET.GBL
+
+    Adding Layer      : L2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D37
+    D38
+    D39
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+*************************************************************
+
+*************************************************************
+Generating : PWR
+      File : VerticalFET.GP2
+
+    Adding Layer      : PWR
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D40
+    D41
+    D42
+    D43
+*************************************************************
+
+*************************************************************
+Generating : GND
+      File : VerticalFET.GP1
+
+    Adding Layer      : GND
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D40
+    D41
+    D42
+*************************************************************
+
+*************************************************************
+Generating : L1
+      File : VerticalFET.GTL
+
+    Adding Layer      : L1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : VerticalFET.GD1
+
+    Adding Drill Pair : L1-L2
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D52
+    D53
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : VerticalFET.GG1
+
+    Adding Drill Pair : L1-L2
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D52
+*************************************************************
+

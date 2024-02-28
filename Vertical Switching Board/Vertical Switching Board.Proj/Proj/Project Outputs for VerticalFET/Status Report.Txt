@@ -1,0 +1,16 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 14:18:46 On 27.8.2021
+
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [VerticalFET.PcbDoc]
+   Generated File[VerticalFET.TXT]
+   Generated File[VerticalFET.LDP]
+   Generated File[VerticalFET.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 14:18:47 On 27.8.2021
